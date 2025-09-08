@@ -25,10 +25,11 @@ function App() {
         <Skills />
         <Experience />
         <Edcucation />
+        
+        <Work />
         <Contact />
         <Fooder />
 
-        <Work />
 
       </div>
     </div>
